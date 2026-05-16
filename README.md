@@ -1,23 +1,14 @@
 <div align="center">
-
-<img src="https://i.imgur.com/yourimage.png" width="140" style="border-radius: 50%;" />
-
-# Lucas Matheus
-
-### Developer & Game Systems
-
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=120&section=header&text=Saresjs&fontSize=50&fontColor=FFFFFF" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;C%2B%2B+%26+Pawn+Developer;Python+Enthusiast;Scripting+Specialist" alt="Typing SVG" />
 </div>
-
 
 <div align="center">
 
-## Sobre
+# 💻 Saudações, eu sou o Sares!
 
-Desenvolvedor especializado em criação de sistemas otimizados  
-para servidores multiplayer.
-
-Foco em performance, estabilidade e arquitetura limpa.
-
+Sou um desenvolvedor focado em performance e lógica de sistemas. Minha base foi construída no desenvolvimento de ambientes complexos em C++ e Pawn, o que me trouxe uma visão analítica para resolver problemas. Atualmente, dedico meu tempo a aprimorar minhas habilidades e explorar novas fronteiras no desenvolvimento de software.
 </div>
 
 
