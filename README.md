@@ -16,11 +16,11 @@ Sou um desenvolvedor focado em performance e lógica de sistemas. Minha base foi
 
 ## Contato
 
-<a href="https://github.com/SEUUSUARIO">
+<a href="https://github.com/Saresjs">
 <img src="https://skillicons.dev/icons?i=github" width="42"/>
 </a>
 
-<a href="https://discord.com/users/SEUID">
+<a href="https://discord.com/users/Sarejs">
 <img src="https://skillicons.dev/icons?i=discord" width="42"/>
 </a>
 
